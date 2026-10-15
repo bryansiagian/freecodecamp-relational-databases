@@ -48,3 +48,4 @@ clear
 ls --color=auto
 clear
 ls --color=auto
+cd src
