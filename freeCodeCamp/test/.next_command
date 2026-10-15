@@ -3,3 +3,5 @@ cd test
 fwd
 ls --color=auto
 pwd
+clear
+ls --color=auto
