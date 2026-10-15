@@ -167,3 +167,4 @@ cd images
 ls --color=auto
 clear
 mv header.png ..
+ls --color=auto
