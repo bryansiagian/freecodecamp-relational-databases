@@ -109,3 +109,4 @@ rm header.png
 __vsc_prompt_cmd_original
 rm footer.jpeg
 clear
+ls --color=auto
