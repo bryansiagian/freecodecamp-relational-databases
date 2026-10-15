@@ -161,3 +161,6 @@ clear
 ls --color=auto
 clear
 cd ../../..
+ls --color=auto
+cd imagees
+cd images
