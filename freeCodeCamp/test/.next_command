@@ -184,3 +184,6 @@ clear
 cd ..
 mv images/footer.jpeg client/assets/images
 find
+clear
+ls --color=auto
+rmdir images
