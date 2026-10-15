@@ -49,3 +49,5 @@ ls --color=auto
 clear
 ls --color=auto
 cd src
+ls --color=auto
+pwd
