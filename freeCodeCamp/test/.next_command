@@ -214,3 +214,5 @@ find
 find clients/assets/fonts
 find -name clients/assets/fonts
 find client/assets/fonts
+clear
+touch client/assets/fonts/lato-bold.ttf
