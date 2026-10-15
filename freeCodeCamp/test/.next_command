@@ -199,3 +199,4 @@ cd ..
 mkdir client/assets/icons
 find -name CodeAlly.svg
 mv CodeAlly.svg client/assets/icons
+find
