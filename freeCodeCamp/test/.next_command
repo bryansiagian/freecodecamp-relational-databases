@@ -20,3 +20,5 @@ cclear
 clear
 ls --color=auto
 cd has
+clear
+ls --color=auto
