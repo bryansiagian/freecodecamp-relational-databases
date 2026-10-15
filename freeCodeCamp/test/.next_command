@@ -6,3 +6,4 @@ pwd
 clear
 ls --color=auto
 cd ..
+ls --color=auto
