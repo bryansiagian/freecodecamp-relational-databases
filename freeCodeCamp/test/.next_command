@@ -123,3 +123,5 @@ mv lato.ttf fonts
 mv menlo.ttf fonts
 mv menlo.otf fonts
 find
+clear
+mkdir client
