@@ -16,3 +16,7 @@ celar
 clear
 ls --color=auto
 ls --color=auto -l node_modules
+cclear
+clear
+ls --color=auto
+cd has
