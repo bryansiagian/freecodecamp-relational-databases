@@ -5,3 +5,4 @@ ls --color=auto
 pwd
 clear
 ls --color=auto
+cd ..
